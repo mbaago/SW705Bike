@@ -1,0 +1,3 @@
+[submodule "Libaries/GSM-GPRS-GPS-Shield"]
+	path = Libaries/GSM-GPRS-GPS-Shield
+	url = https://github.com/MarcoMartines/GSM-GPRS-GPS-Shield.git
