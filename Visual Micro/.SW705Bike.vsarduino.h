@@ -44,5 +44,5 @@ extern "C" void __cxa_pure_virtual() {;}
 
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino\arduino.h"
 #include "C:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard\pins_arduino.h" 
-#include "C:\Users\Morten\Documents\Arduino\SW705Bike\SW705Bike.ino"
+#include "C:\Users\Morten\git\SW705Bike\SW705Bike.ino"
 #endif
